@@ -25,15 +25,6 @@
 
 <a href="https://github.com/Samueli924/chaoxing" target="blank">灵感来源</a>
 
-## Star History
-<a href="https://www.star-history.com/?repos=lispringing%2FSuperStar&type=date&legend=top-left">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=lispringing/SuperStar&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=lispringing/SuperStar&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=lispringing/SuperStar&type=date&legend=top-left" />
- </picture>
-</a>
-
 ## 赞助
 >如果觉着代码对你有帮助，可以赞赏一下开发者
 
